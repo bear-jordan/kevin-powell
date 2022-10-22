@@ -1,0 +1,14 @@
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    font-weight: 400;
+    font-size: 54px;
+    font-family: "Luckiest Guy", sans-serif;
+    padding-top: 88px;
+    padding-bottom: 20px;
+    color: #D9381E;
+}
